@@ -88,7 +88,7 @@ body {
 }
 
 #banner {
-    background-image: url("../images/banner.jpg");
+    background-image: url(../CodeCleaver.github.io/resources/banner.jpg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -132,14 +132,13 @@ body {
     width: 95%;
     margin: 0 auto;
     margin-top: 1.5rem;
-    
 }
 
 .main hr {
     width: 87%;
     margin-bottom: 15px;
 }
-.main p{
+.main p {
     width: 95%;
     margin: 0 auto;
     line-height: 30px;
@@ -156,9 +155,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    width: 60%;
-
-  
+    width: 60%;  
 }  
 .imagecontainer {
     display: flex;
@@ -179,10 +176,7 @@ body {
     transition-property: height;
     transition-delay: 1s;
     transition-duration: 1s;
-}
-#cc:hover {
-    
-}
+    }
 
 @media only screen and (max-width:1100px) {
     .navbar li {
